@@ -1,0 +1,43 @@
+repo_name: ohimors/crackcoin
+report_id: d163a2f2b3dc9c276d382ef22f74f9f0
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:41:53+00:00'
+requested_by: spipm
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ohimors/crackcoin
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/ohimors/crackcoin/blob/master/crackcoinBase.sql
+  detection_source: crackcoinBase.sql
+  last_updated_by: DutchGraa
+  last_updated_on: 2017-07-09 14:59:12.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/crackcoin
+  detection_source: Repo Metadata
